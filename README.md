@@ -31,3 +31,6 @@ resource "aws_s3_bucket" "my_existing_bucket" {
 - terraform installed
 - terraform needs secret key and access key (fill in secrets.tf)
 
+### Documentation
+Terraform Import: https://www.terraform.io/cli/import
+Terraform Import Tutorial: https://learn.hashicorp.com/tutorials/terraform/state-import?in=terraform/state&utm_source=WEBSITE&utm_medium=WEB_IO&utm_offer=ARTICLE_PAGE&utm_content=DOCS
